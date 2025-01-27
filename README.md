@@ -1,5 +1,5 @@
 # ETL
-Building an basic ETL pipeline for learning purposes from Python Project for Data Engineering offered by IMB on Cousera.
+Building an basic ETL pipeline for learning purposes from Python Project for Data Engineering offered by IBM on Cousera.
 
 ## Overview  
 This ETL pipeline is designed to:  
