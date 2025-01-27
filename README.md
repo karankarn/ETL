@@ -28,14 +28,14 @@ Extract the contents of source.zip into your project folder. You should see mult
 ## Project Structure  
 A suggested directory structure is as follows:  
 
-├── etl_script.py              # This is the main script containing all ETL functions  
-├── source.zip                 # The zipped data (downloaded)  
-├── *.csv                      # CSV files (after unzipping)  
-├── *.json                     # JSON files (after unzipping)  
-├── *.xml                      # XML files (after unzipping)  
-├── transformed_data.csv       # Output CSV after running the pipeline  
-├── log_file.txt               # Log file generated after running the pipeline  
-└── README.md                  # This README file  
+├── etl_script.py              -- This is the main script containing all ETL functions  
+├── source.zip                 -- The zipped data (downloaded)  
+├── *.csv                      -- CSV files (after unzipping)  
+├── *.json                     -- JSON files (after unzipping)  
+├── *.xml                      -- XML files (after unzipping)  
+├── transformed_data.csv       -- Output CSV after running the pipeline  
+├── log_file.txt               -- Log file generated after running the pipeline  
+└── README.md                  -- This README file  
 
 ## Usage  
 
